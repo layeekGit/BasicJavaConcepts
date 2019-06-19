@@ -1,2 +1,2 @@
 # BasicJavaConcepts
-This repository is to experience both java and GitHub 
+This repository is to experience both Java and GitHub 
